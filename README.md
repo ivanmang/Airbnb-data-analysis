@@ -19,5 +19,7 @@ There is three jupyter notebook available here. Each of the notebooks is explora
 The result and finding are explained in the Medium blog post [Here](https://medium.com/@ivanhi22/which-factors-affect-the-price-of-airbnb-in-seattle-and-boston-the-most-814e99f417da).
 
 Credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available
+
 [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle).
+
 [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston).
