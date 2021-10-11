@@ -12,8 +12,8 @@ Using Boston Airbnb Open Data and Seattle Airbnb Open Data, we are interested to
 3. Which type of host tends to have better review?
 
 ## File Descriptions
-There is three jupyter notebook available here. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
-`price_pattern.ipynb ` for the first question, `price_predict.ipynb` for the second and `host_and_review.ipynb` for the last.
+There is three jupyter notebook available here. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps. You can start with `price_pattern.ipynb`  for the first question, 
+`price_predict.ipynb` for the second and `host_and_review.ipynb` for the last.
 
 ## Blog Post
 The result and finding are explained in the Medium blog post [Here](https://medium.com/@ivanhi22/which-factors-affect-the-price-of-airbnb-in-seattle-and-boston-the-most-814e99f417da).
